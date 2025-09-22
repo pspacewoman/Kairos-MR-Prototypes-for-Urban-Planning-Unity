@@ -1,4 +1,4 @@
-# Kairos XR-Prototypes for Urban Planning in Unity-
+# Kairos XR-Prototypes for Urban Planning in Unity
 # Augmented Reality Application for Collaborative Learning
 
 www.projekt-kairos.de 
@@ -24,34 +24,31 @@ Traditional e-learning tools often lack immersion and collaboration. Students st
 
 4. Design Process (HCI / UCD Framework)
 🌀 Steps:
-1. Research (literature + user needs)
-2. Concept Development
-3. Prototyping in Unity
-4. Testing (workshops)
-5. Refinement
+a. Research (literature + user needs)
+b. Concept Development
+c. Prototyping in Unity
+d. Testing (workshops)
+e. Refinement
 
 5. Prototyping in Unity
 🛠 Implementation Highlights:
-1. Interactive 3D AR overlay scenes
-2. Gesture + controller input (XR Interaction Toolkit)
-3. Marker detection via custom C# scripts
-4. UI menus for Create Whiteboard / Draw / Input Equation
-5. Deployment on Meta Quest, WebGL, Desktop
+a. Interactive 3D AR overlay scenes
+b. Gesture + controller input (XR Interaction Toolkit)
+c. Marker detection via custom C# scripts
+d. UI menus for Create Whiteboard / Draw / Input Equation
+e. Deployment on Meta Quest, WebGL, Desktop
 
 6. Interaction Flow
 🎮 Player Journey:
 Player puts on headset → Whiteboard spawns → Chooses “Draw/Sketch” → Interacts with 3D content → Collaborates in shared space.
 
-7. Testing & Evaluation
-📌 Workshops conducted with students:
-Tested for usability, engagement, and collaboration.
-Key findings:
-Users valued visual learning & real-time teamwork.
-Need for better onboarding & accessibility features.
+7. 📌 Testing & Evaluation
+a. Workshops were conducted for usability testing of the MR prototypes.
+b. Users valued visual learning & real-time teamwork.
+c. Need for better onboarding & accessibility features.
 
 8. Results & Contributions
-🏆 Outcomes
-Delivered a functional Unity AR prototype.
-Demonstrated feasibility of AR in collaborative learning.
-Produced scientific documentation and evaluation.
-Opened path for future usability studies and curriculum integration.
+a. Delivered a functional Unity AR prototype.
+b. Demonstrated feasibility of AR in collaborative learning.
+c. Produced scientific documentation and evaluation.
+d. Opened path for future usability studies and curriculum integration.
