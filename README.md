@@ -1,4 +1,4 @@
-# 🌍 KAIROS XR-Prototypes for Urban Planning in Unity  
+# 🌍 KAIROS MR-Prototypes for Urban Planning in Unity  
 ### 🎓 Augmented Reality Application for Collaborative Learning  
 
 [![Unity](https://img.shields.io/badge/Engine-Unity-000?logo=unity&logoColor=white)](https://unity.com/)  
