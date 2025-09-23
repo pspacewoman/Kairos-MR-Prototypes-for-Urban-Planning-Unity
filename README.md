@@ -14,13 +14,23 @@
 
 ---
 
-## 📖 Project Overview  
-The **Unity Project** is a research initiative at **FernUniversität in Hagen**, aimed at developing an **Augmented Reality (AR) application** for collaborative learning and participatory urban planning.  
+## 📖 About KAIROS Project
+
+The **KAIROS Project** is a research initiative led by **FernUniversität in Hagen** in collaboration with municipal and industry partners.  
+It explores how **Mixed Reality (MR)** and **cyber-physical systems** can enhance **citizen participation in urban planning**.  
+
+### 🔹 Key Highlights
+- Combines **digital + analog participation formats** for inclusive urban planning.  
+- Uses **AR/MR applications** (Unity, XR Toolkit) to visualize redesigns of public spaces (e.g., Bad Berleburg marketplace).  
+- Provides **low-threshold, accessible, and immersive interfaces** for citizens to interact with planning scenarios.  
+- Leverages **cyber-physical components** for tangible interaction and real-time feedback.  
+- Builds on expertise in **Human-Computer Interaction (HCI)**, **UX research**, and **MR prototyping**.  
 
 💡 The prototype explores how immersive technology can **enhance engagement, teamwork, and comprehension** in higher education and public forums.  
 
-**My Role:** Unity AR Developer, HCI Research Assistant  
-**Team:** PhD researchers, designers, artists, QA  
+**My Role:** Unity AR Developer, Scientific Research Assistant  
+**Team:** PhD researchers, Designers, UI Artists, 
+**Partners:** NetZFactor GmbH, 
 **Duration:** X months (202X)  
 **Tools:** Unity · C# · XR Interaction Toolkit · Meta Quest SDK · GitHub · Agile  
 
