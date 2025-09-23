@@ -34,15 +34,7 @@ It explores how **Mixed Reality (MR)** and **cyber-physical systems** can enhanc
 | Planning **not on-site**; discussions abstract. | Enable **on-site, immersive visualization** via AR/MR. |
 | Drafts are **hard to visualize, comment, or modify**. | Create **interactive 3D models** citizens can view, comment, and change in real time. |
 | Citizens struggle to engage fully with static plans. | Support **human-centered, engaging participation** that improves collaboration. |
-
-## 🛠 From Problem to Solution  
-
-**Current Process**  
-📄 Analog Meetings → 🗣️ Discussion → ❌ Limited Visualization → ⚡ Low Engagement  
-
-**KAIROS Process**  
-📄 Analog Input → 💻 Automatic Digital 3D Model → 🥽 Mixed Reality On-Site → ✅ Interactive, Human-Centered Participation  
-
+| 📄 Analog Meetings → 🗣️ Discussion → ❌ Limited Visualization → ⚡ Low Engagement | 📄 Analog Input → 💻 Automatic Digital 3D Model → 🥽 Mixed Reality On-Site → ✅ Interactive, Human-Centered Participation   |
 
 💡 The prototype explores how immersive technology can **enhance engagement, teamwork, and comprehension** in higher education and public forums.  
 
