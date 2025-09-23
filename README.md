@@ -32,14 +32,18 @@ Cities and municipalities are increasingly involving their citizens in planning 
 ### **GOAL**
 The KAIROS project aims to analyze current citizen participation in urban planning and then, based on a human-centered approach, design, implement, and roll out new mixed-reality solutions. Firstly, it involves capturing what is planned in analog form at public meetings and automatically translating it into a digital 3D model in the background. This digital image can then be viewed, commented on, and possibly even modified at the actual location using mixed-reality technologies.
 
-
 💡 The prototype explores how immersive technology can **enhance engagement, teamwork, and comprehension** in higher education and public forums.  
 
-**My Role:** Unity AR Developer, Scientific Research Assistant  
-**Team:** PhD researchers, Designers, UI Artists, 
-**Partners:** NetZFactor GmbH, 
-**Duration:** 2024 - Present
-**Tools:** Unity · C# · XR Interaction Toolkit · Meta Quest SDK · GitHub · Agile  
+## 👩‍💻 Project Details
+
+| **Category** | **Details** |
+|--------------|-------------|
+| **My Role**  | Unity AR Developer · Scientific Research Assistant |
+| **Team**     | PhD Researchers · Designers · UI Artists |
+| **Partners** | NetZFactor GmbH · City of Bad Berleburg · Municipality of Erndtebrück |
+| **Duration** | 2024 – Present |
+| **Tools**    | Unity · C# · XR Interaction Toolkit · Meta Quest SDK · GitHub · Agile |
+
 
 ---
 
