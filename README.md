@@ -32,6 +32,16 @@ Cities and municipalities are increasingly involving their citizens in planning 
 ### **GOAL**
 The KAIROS project aims to analyze current citizen participation in urban planning and then, based on a human-centered approach, design, implement, and roll out new mixed-reality solutions. Firstly, it involves capturing what is planned in analog form at public meetings and automatically translating it into a digital 3D model in the background. This digital image can then be viewed, commented on, and possibly even modified at the actual location using mixed-reality technologies.
 
+## 🔍 Initial Situation vs. 🎯 Goal
+
+| **Initial Situation** | **KAIROS Goal** |
+|------------------------|-----------------|
+| Citizen participation often limited to **analog meetings** (info events, public evenings). | Combine **analog + digital participation** using MR technologies. |
+| Planning **not on-site**; discussions abstract. | Enable **on-site, immersive visualization** via AR/MR. |
+| Drafts are **hard to visualize, comment, or modify**. | Create **interactive 3D models** citizens can view, comment, and change in real time. |
+| Citizens struggle to engage fully with static plans. | Support **human-centered, engaging participation** that improves collaboration. |
+
+
 💡 The prototype explores how immersive technology can **enhance engagement, teamwork, and comprehension** in higher education and public forums.  
 
 ## 👩‍💻 Project Details
