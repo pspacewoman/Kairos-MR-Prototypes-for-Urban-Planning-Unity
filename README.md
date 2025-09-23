@@ -19,13 +19,6 @@
 The **KAIROS Project** is a research initiative led by **FernUniversität in Hagen** in collaboration with municipal and industry partners.  
 It explores how **Mixed Reality (MR)** and **cyber-physical systems** can enhance **citizen participation in urban planning**.  
 
-### 🔹 Key Highlights
-- Combines **digital + analog participation formats** for inclusive urban planning.  
-- Uses **AR/MR applications** (Unity, XR Toolkit) to visualize redesigns of public spaces (e.g., Bad Berleburg marketplace).  
-- Provides **low-threshold, accessible, and immersive interfaces** for citizens to interact with planning scenarios.  
-- Leverages **cyber-physical components** for tangible interaction and real-time feedback.  
-- Builds on expertise in **Human-Computer Interaction (HCI)**, **UX research**, and **MR prototyping**.
-
 ## 🔍 Initial Situation vs. 🎯 Goal
 
 | **Initial Situation** | **KAIROS Goal** |
