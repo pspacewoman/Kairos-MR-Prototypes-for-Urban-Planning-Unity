@@ -29,7 +29,9 @@ It explores how **Mixed Reality (MR)** and **cyber-physical systems** can enhanc
 | Citizens struggle to engage fully with static plans. | Support **human-centered, engaging participation** that improves collaboration. |
 | 📄 Analog Meetings → 🗣️ Discussion → ❌ Limited Visualization → ⚡ Low Engagement | 📄 Analog Input → 💻 Automatic Digital 3D Model → 🥽 Mixed Reality On-Site → ✅ Interactive, Human-Centered Participation   |
 
+## 📖 **Prototype Solution**
 💡 The prototype explores how immersive technology can **enhance engagement, teamwork, and comprehension** in higher education and public forums.  
+**Prototype an AR app** that makes collaborative learning and urban design **engaging, intuitive, and interactive**.  
 
 ## 👩‍💻 Project Details
 
@@ -41,19 +43,11 @@ It explores how **Mixed Reality (MR)** and **cyber-physical systems** can enhanc
 | **Duration** | 2024 – Present |
 | **Tools**    | Unity · C# · XR Interaction Toolkit · Meta Quest SDK · GitHub · Agile |
 
-
----
-
-## ❓ Problem Statement  
-⚡ Traditional e-learning and urban planning tools lack **immersion** and **collaboration**.  
-👩‍🎓 Students & citizens often struggle to stay engaged with 2D plans or hybrid learning models.  
-➡️ Our goal: **Prototype an AR app** that makes collaborative learning and urban design **engaging, intuitive, and interactive**.  
-
 ---
 
 ## 🔍 Research & Insights  
 ✅ **Workshops Conducted:**  
-- Held in multiple cities with students and citizens.  
+- Held in multiple cities with researchers and citizens.  
 - Tested AR app on **Meta Quest headsets**.  
 - Findings: High engagement, improved comprehension with 3D interaction.  
 
