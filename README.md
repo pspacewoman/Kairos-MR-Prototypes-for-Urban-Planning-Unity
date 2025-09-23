@@ -24,14 +24,21 @@ It explores how **Mixed Reality (MR)** and **cyber-physical systems** can enhanc
 - Uses **AR/MR applications** (Unity, XR Toolkit) to visualize redesigns of public spaces (e.g., Bad Berleburg marketplace).  
 - Provides **low-threshold, accessible, and immersive interfaces** for citizens to interact with planning scenarios.  
 - Leverages **cyber-physical components** for tangible interaction and real-time feedback.  
-- Builds on expertise in **Human-Computer Interaction (HCI)**, **UX research**, and **MR prototyping**.  
+- Builds on expertise in **Human-Computer Interaction (HCI)**, **UX research**, and **MR prototyping**.
+
+### **Initial Situation**
+Cities and municipalities are increasingly involving their citizens in planning processes. These typically take the form of analog information events or public evenings where plans are discussed together. Current citizen participation formats have a few weaknesses. For example, planning doesn't take place on-site, or the respective planning drafts are difficult to visualize, comment on, or change.
+
+### **GOAL**
+The KAIROS project aims to analyze current citizen participation in urban planning and then, based on a human-centered approach, design, implement, and roll out new mixed-reality solutions. Firstly, it involves capturing what is planned in analog form at public meetings and automatically translating it into a digital 3D model in the background. This digital image can then be viewed, commented on, and possibly even modified at the actual location using mixed-reality technologies.
+
 
 💡 The prototype explores how immersive technology can **enhance engagement, teamwork, and comprehension** in higher education and public forums.  
 
 **My Role:** Unity AR Developer, Scientific Research Assistant  
 **Team:** PhD researchers, Designers, UI Artists, 
 **Partners:** NetZFactor GmbH, 
-**Duration:** X months (202X)  
+**Duration:** 2024 - Present
 **Tools:** Unity · C# · XR Interaction Toolkit · Meta Quest SDK · GitHub · Agile  
 
 ---
