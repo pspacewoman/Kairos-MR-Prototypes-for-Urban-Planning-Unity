@@ -31,7 +31,7 @@ It explores how **Mixed Reality (MR)** and **cyber-physical systems** can enhanc
 
 ## 📖 **Prototype Solution**
 💡 The prototype explores how immersive technology can **enhance engagement, teamwork, and comprehension** in higher education and public forums.  
-**Prototype an AR app** that makes collaborative learning and urban design **engaging, intuitive, and interactive**.  
+💡 **Prototype an AR app** that makes collaborative learning and urban design **engaging, intuitive, and interactive**.  
 
 ## 👩‍💻 Project Details
 
