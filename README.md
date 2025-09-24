@@ -1,4 +1,4 @@
-# ⛩️ KAIROS MR-Prototypes for Urban Planning in Unity  <img width="250" height="150" alt="Bild1" src="https://github.com/user-attachments/assets/2165282c-966a-4f06-aef2-dc85f5643971" />
+# ⛩️ KAIROS MR-Prototypes for Urban Planning in Unity  <img width="150" height="100" alt="Bild1" src="https://github.com/user-attachments/assets/2165282c-966a-4f06-aef2-dc85f5643971" />
 
 ### 🎓 Augmented Reality Application for Collaborative Learning  
 
