@@ -81,37 +81,13 @@ It explores how **Mixed Reality (MR)** and **cyber-physical systems** can enhanc
 
 ## 🎮 User Interaction Flow (Meta Quest 3)  
 
-👤 User puts on headset  
-⬇️  
-🚀 Launches AR App  
-⬇️  
-🏙️ City objects overlayed in scene  
-⬇️  
-🎮 User selects/controls objects via controller  
-⬇️  
-📦 Places, rotates, resizes objects in free locations  
-⬇️  
-🔍 Tests and interacts with redesigned city environment  
-⬇️  
-✅ Usability testing conducted  
+👤 User puts on headset → 🚀 Launches AR App → 🏙️ City objects overlayed in scene → 🎮 User selects/controls objects via controller → 📦 Places, rotates, resizes objects in free locations →  🔍 Tests and interacts with redesigned city environment →  ✅ Usability testing conducted  
 
 ---
 
 ## 📝 Feedback Collection & Analysis  
 
-🗣️ Think-Aloud Feedback → 🎥 Screen Recording (Meta Quest Developer Hub)  
-⬇️  
-🎤 Audio Recording (Phone Devices)  
-⬇️  
-📑 Questionnaire + Interviews  
-⬇️  
-📊 Survey Feedback Documented  
-⬇️  
-🖋️ MAXQDA Transcript Coding & Analysis  
-⬇️  
-🎬 Prototype Videos Reviewed  
-⬇️  
-✅ Final Usability Insights & Recommendations  
+🗣️ Think-Aloud Feedback → 🎥 Screen Recording (Meta Quest Developer Hub) → 🎤 Audio Recording (Phone Devices) → 📑 Questionnaire + Interviews → 📊 Survey Feedback Documented → 🖋️ MAXQDA Transcript Coding & Analysis → 🎬 Prototype Videos Reviewed → ✅ Final Usability Insights & Recommendations  
 
 ---
 
