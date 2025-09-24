@@ -93,14 +93,16 @@ It explores how **Mixed Reality (MR)** and **cyber-physical systems** can enhanc
 
 ## 📝 Feedback Collection & Analysis  
 
-🗣️ Think-Aloud Feedback → 
-🎥 Screen Recording (Meta Quest Developer Hub) → 
-🎤 Audio Recording (Phone Devices) → 
-📑 Questionnaire + Interviews → 
-📊 Survey Feedback Documented → 
-🖋️ MAXQDA Transcript Coding & Analysis → 
-🎬 Prototype Videos Reviewed → 
-✅ Final Usability Insights & Recommendations  
+| **Category** | **Details** |
+|--------------|-------------|
+| **1**  | 🗣️ Think-Aloud Feedback |
+| **2**  | 🎥 Screen Recording (Meta Quest Developer Hub) |
+| **3** | 🎤 Audio Recording (Phone Devices) |
+| **4** | 📑 Questionnaire + Interviews |
+| **5** | 📊 Survey Feedback Documented |
+| **6** | 🖋️ MAXQDA Transcript Coding & Analysis |
+| **7** | 🎬 Prototype Videos Reviewed |
+| **8** | ✅ Final Usability Insights & Recommendations  |
 
 ---
 
