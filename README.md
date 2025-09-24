@@ -73,8 +73,46 @@ It explores how **Mixed Reality (MR)** and **cyber-physical systems** can enhanc
 
 ---
 
-## 🎮 Interaction Flow  
-```mermaid
-flowchart LR
-A[👓 User puts on headset] --> B[🖼 Whiteboard spawns] --> C[✏️ Choose Draw/Sketch]  
-C --> D[🧑‍🤝‍🧑 Collaborates in shared 3D space] --> E[📊 Visual learning & teamwork]
+## 🎮 Prototype Development Flow  
+
+💡 Idea → 🎨 Design (Figma/UI Mockups) → 🖥️ Unity Setup → 🛠️ C# + XR Toolkit → 🥽 Meta Quest Build → ✅ Functional AR Prototype  
+
+---
+
+## 🎮 User Interaction Flow (Meta Quest 3)  
+
+👤 User puts on headset  
+⬇️  
+🚀 Launches AR App  
+⬇️  
+🏙️ City objects overlayed in scene  
+⬇️  
+🎮 User selects/controls objects via controller  
+⬇️  
+📦 Places, rotates, resizes objects in free locations  
+⬇️  
+🔍 Tests and interacts with redesigned city environment  
+⬇️  
+✅ Usability testing conducted  
+
+---
+
+## 📝 Feedback Collection & Analysis  
+
+🗣️ Think-Aloud Feedback → 🎥 Screen Recording (Meta Quest Developer Hub)  
+⬇️  
+🎤 Audio Recording (Phone Devices)  
+⬇️  
+📑 Questionnaire + Interviews  
+⬇️  
+📊 Survey Feedback Documented  
+⬇️  
+🖋️ MAXQDA Transcript Coding & Analysis  
+⬇️  
+🎬 Prototype Videos Reviewed  
+⬇️  
+✅ Final Usability Insights & Recommendations  
+
+---
+
+
