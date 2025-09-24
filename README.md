@@ -77,7 +77,7 @@ It explores how **Mixed Reality (MR)** and **cyber-physical systems** can enhanc
 
 | 💡 Idea | 🎨 Design (Figma / UI Mockups) | 🖥️ Unity Setup | 🛠️ C# + XR Toolkit | 🥽 Meta Quest Build | ✅ Functional AR Prototype |
 |---------|-------------------------------|----------------|-------------------|---------------------|----------------------------|
-|   →     |   →                           | →              |  →                 | →                   | →                          |
+|     →     |        →                |        →              |    →                 |    →                   |    →               |
 ---
 
 ## 🎮 User Interaction Flow (Meta Quest 3)  
