@@ -9,7 +9,7 @@
 [![SPSS](https://img.shields.io/badge/Analysis-SPSS-lightgrey?logo=ibm&logoColor=blue)](https://www.ibm.com/spss)  
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)  
 
-🔗 [Projekt-KAIROS Website](https://www.projekt-kairos.de)  
+🔗 [Projekt-KAIROS Website](https://www.projekt-kairos.de) 
 
 ---
 
@@ -18,7 +18,8 @@
 The **KAIROS Project** is a research initiative led by **FernUniversität in Hagen** in collaboration with municipal and industry partners.  
 It explores how **Mixed Reality (MR)** and **cyber-physical systems** can enhance **citizen participation in urban planning**.  
 
-<img width="300" height="300" alt="Illustration_Steg" src="https://github.com/user-attachments/assets/fa8f253a-5f26-4698-8671-d27c6e09e3e9" />
+<img width="300" height="300" alt="Illustration_Steg" src="https://github.com/user-attachments/assets/fa8f253a-5f26-4698-8671-d27c6e09e3e9" /> <img width="300" height="300" alt="Illustration_Stadtplatz" src="https://github.com/user-attachments/assets/18c5f643-a96d-4144-893c-03c0e8199a1f" />
+
 
 ---
 
