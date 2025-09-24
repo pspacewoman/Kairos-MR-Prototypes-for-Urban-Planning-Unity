@@ -11,13 +11,16 @@
 
 🔗 [Projekt-KAIROS Website](https://www.projekt-kairos.de)  
 
-
 ---
 
 ## 📖 About KAIROS Project
 
 The **KAIROS Project** is a research initiative led by **FernUniversität in Hagen** in collaboration with municipal and industry partners.  
 It explores how **Mixed Reality (MR)** and **cyber-physical systems** can enhance **citizen participation in urban planning**.  
+
+<img width="1308" height="1028" alt="Illustration_Steg" src="https://github.com/user-attachments/assets/fa8f253a-5f26-4698-8671-d27c6e09e3e9" />
+
+---
 
 ## 🔍 Initial Situation vs. 🎯 Goal
 
