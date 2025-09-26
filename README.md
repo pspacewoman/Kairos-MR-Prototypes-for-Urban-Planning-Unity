@@ -71,38 +71,35 @@ It explores how **Mixed Reality (MR)** and **cyber-physical systems** can enhanc
 
 ## 🛠 Prototyping in Unity  
 **Implementation Highlights:**  
-- 📦 Interactive 3D AR overlay scenes  
-- 🕹 Gesture + controller input (XR Interaction Toolkit)  
-- 🔍 Marker detection via custom C# scripts  
-- 📝 UI menus for Whiteboard · Draw · Input Equation  
-- 🚀 Deployment on Meta Quest, WebGL & Desktop  
+- Interactive 3D AR overlay scenes  
+- Gesture + controller input (XR Interaction Toolkit)  
+- Marker detection via custom C# scripts  
+- UI menus for Whiteboard · Draw · Input Equation  
+- Deployment on Meta Quest, WebGL & Desktop  
 
 ---
 
 ## 🎮 Prototype Development Flow 
-
 💡 Idea → 🎨 Design (Figma / UI Mockups) → 🖥️ Unity Setup → 🛠️ C# + XR Toolkit  → 🥽 Meta Quest Build  → ✅ Functional AR Prototype 
 
 ---
 
 ## 🎮 User Interaction Flow (Meta Quest 3)  
-
 👤 User puts on headset → 🚀 Launches AR App → 🏙️ City objects overlayed in scene → 🎮 User selects/controls objects via controller → 📦 Places, rotates, resizes objects in free locations →  🔍 Tests and interacts with redesigned city environment →  ✅ Usability testing conducted  
 
 ---
 
 ## 📝 Feedback Collection & Analysis  
-
 | **Category** | **Details** |
 |--------------|-------------|
-| **1**  | 🗣️ Think-Aloud Feedback |
-| **2**  | 🎥 Screen Recording (Meta Quest Developer Hub) |
-| **3** | 🎤 Audio Recording (Phone Devices) |
-| **4** | 📑 Questionnaire + Interviews |
-| **5** | 📊 Survey Feedback Documented |
-| **6** | 🖋️ MAXQDA Transcript Coding & Analysis |
-| **7** | 🎬 Prototype Videos Reviewed |
-| **8** | ✅ Final Usability Insights & Recommendations  |
+| **1** | Think-Aloud Feedback |
+| **2** | Screen Recording (Meta Quest Developer Hub) |
+| **3** | Audio Recording (Phone Devices) |
+| **4** | Questionnaire + Interviews |
+| **5** | Survey Feedback Documented |
+| **6** | MAXQDA Transcript Coding & Analysis |
+| **7** | Prototype Videos Reviewed |
+| **8** | Final Usability Insights & Recommendations  |
 
 ---
 
