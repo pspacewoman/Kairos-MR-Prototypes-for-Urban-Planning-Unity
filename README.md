@@ -87,6 +87,17 @@ It explores how **Mixed Reality (MR)** and **cyber-physical systems** can enhanc
 ## 🎮 User Interaction Flow (Meta Quest 3)  
 👤 User puts on headset → 🚀 Launches AR App → 🏙️ City objects overlayed in scene → 🎮 User selects/controls objects via controller → 📦 Places, rotates, resizes objects in free locations →  🔍 Tests and interacts with redesigned city environment →  ✅ Usability testing conducted  
 
+
+mermaid
+flowchart TD
+    A[👤 User puts on headset] --> B[🚀 Launches AR App]
+    B --> C[🏙️ City objects overlayed in scene]
+    C --> D[🎮 User selects/controls objects via controller]
+    D --> E[📦 Places, rotates, resizes objects in free locations]
+    E --> F[🔍 Tests and interacts with redesigned city environment]
+    F --> G[✅ Usability testing conducted]
+
+
 ---
 
 ## 📝 Feedback Collection & Analysis  
